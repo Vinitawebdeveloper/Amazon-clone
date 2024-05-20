@@ -1,0 +1,39 @@
+  <div class="box second">
+                        <h3>Refresh Your Space</h3>
+                        <div class="box-a">
+                            <div>
+                                <img src="./Images/Refresh-your-space-1-Dining.jpg" alt="">
+                                <span>Headset</span>
+                            </div>
+                            <div>
+                                <img src="./Images/Refresh-your-space-2-Home.jpg" alt="">
+                                <span>Keyboard</span>
+                            </div>
+                            <div>
+                                <img src="./Images/Refresh-your-space-3-kitchen.jpg" alt="">
+                                <span>Mouse</span>
+                            </div>
+                            <div>
+                                <img src="./Images/Refresh-your-space-4-Health&Beauty.jpg" alt="">
+                                <span>Chair</span>
+                            </div>
+                        </div>
+                        <a href="#">See More</a>
+                    </div>
+                    <div class="box box-c">
+                        <h3>Deals In PCs</h3>
+                        <div>
+                            <img src="./Images/Deals-In-PC-Desktop.jpg" alt="">
+                        </div>
+                        <a href="#">Shop Now</a>
+                    </div>
+                    <div class="box-b">
+                        <div class="best">
+                            <h3>Sign In for the Best Experiance </h3>
+                            <button>Sign In Securely</button>
+                        </div>
+                        <div>
+                            <img src="./Images/Sign_In_for_the_Best_Experiance.jpg" alt="">
+                        </div>
+                        
+                    </div>
